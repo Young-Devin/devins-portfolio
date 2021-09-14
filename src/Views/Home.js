@@ -12,7 +12,7 @@ function Home(){
             </div>
             <h2 className="font-bold text-2xl text-center border-b-2 pt-3 pb-3">CenEats</h2>
             <iframe title="CenEats" className="w-full h-screen mt-3" src="https://ceneats.herokuapp.com/"></iframe>
-            <h2 className="font-bold text-2xl text-center border-b-2 pt-3 pb-3">CenEats</h2>
+            <h2 className="font-bold text-2xl text-center border-b-2 pt-3 pb-3">My React Playground</h2>
             <iframe title="CenEats" className="w-full h-screen mt-3" src="https://devin-react-playground.herokuapp.com/"></iframe>
         </div>
     )
